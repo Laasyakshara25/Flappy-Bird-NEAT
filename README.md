@@ -52,7 +52,7 @@ This encourages the AI to improve its gameplay strategy over time.
 
  **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-ai.git
+   git clone https://github.com/Laasyakshara25/Flappy-Bird-NEAT.git
    cd flappy-bird.py
 ```
 **Install Dependencies:**

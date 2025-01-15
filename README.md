@@ -1,1 +1,1 @@
-## AI that plays Flappy Bird using NEAT ALgorithm
+## AI that plays Flappy Bird using NEAT Algorithm

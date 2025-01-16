@@ -43,6 +43,7 @@ This encourages the AI to improve its gameplay strategy over time.
 5. Over successive generations, watch the AI improve and master the game.
 
 
+## Output Preview
 
 ![Flappy Bird AI Learning](path/to/output_gif.gif)
 

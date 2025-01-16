@@ -45,8 +45,8 @@ This encourages the AI to improve its gameplay strategy over time.
 
 ## Output Preview
 
-![Flappy Bird AI Learning](path/to/output_gif.gif)
-
+![Flappy Bird AI Learning](https://github.com/Laasyakshara25/Flappy-Bird-NEAT/blob/main/output/flappy-bird.gif)
+![Terminal Output](
 
 
 
